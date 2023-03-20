@@ -1,38 +1,27 @@
-# create-svelte
+# We Love Web! 🚨IN PROGRESS...
+Check the [Projectboard]()
+Een website waarin de we love web sessies worden aangekondigd. 
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
+Doelgroep: FDND studenten, Geïnteresseerde en de houders. 
 
-## Creating a project
 
-If you're seeing this, you've probably already done this step. Congrats!
+## Inhoudsopgave Read-me
 
-```bash
-# create a new project in the current directory
-npm create svelte@latest
+  * [Beschrijving](#beschrijving)
+  * [Kenmerken](#kenmerken)
+  * [Installatie](#installatie)
+  * [Gebruik](#gebruik)
+  * [Bronnen](#bronnen)
 
-# create a new project in my-app
-npm create svelte@latest my-app
-```
+## Beschrijving
+De pagina is simpele overzichtelijke website. Waarin de We love web sessies aangekondigd worden. Met een button naar detailpage voor wat meer informatie. Ook heeft de pagina een navigatie die je helpt te navigeren door de website heen. Het aanmeld formulier is ook makkelijk te vinden voor de geïnteresseerden. 
+All het data wordt ook wel uit de We love web API gehaald. 
 
-## Developing
+## Kenmerken
+<!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met Javascript gedaan en hoe? Misschien heb je een framwork of library gebruikt? -->
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+## Installatie
 
-```bash
-npm run dev
+## Gebruik
 
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
-
-## Building
-
-To create a production version of your app:
-
-```bash
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+## Bronnen
