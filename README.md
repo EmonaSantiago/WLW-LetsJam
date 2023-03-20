@@ -1,5 +1,6 @@
 # We Love Web! 🚨IN PROGRESS...
-Check the [Projectboard]()
+Check the [Projectboard]() to be up-to-date!
+
 Een website waarin de we love web sessies worden aangekondigd. 
 
 Doelgroep: FDND studenten, Geïnteresseerde en de houders. 
