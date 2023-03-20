@@ -1,7 +1,7 @@
 # We Love Web! 🚨IN PROGRESS...
 Check the [Projectboard](https://github.com/users/EmonaSantiago/projects/10) to be up-to-date!
 
-Bekijk de [WIKI]() voor alle info!
+Bekijk de [WIKI](https://github.com/EmonaSantiago/WLW-LetsJam/wiki) voor alle info!
 
 <img width="200" alt="Schermafbeelding 2023-03-20 om 16 49 03" src="https://user-images.githubusercontent.com/90447045/226394736-fd52bc2a-0b61-4db6-8906-4a26b046cd83.png">
 
