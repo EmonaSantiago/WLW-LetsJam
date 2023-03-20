@@ -21,7 +21,7 @@ Doelgroep: FDND studenten, Geïnteresseerde en de houders.
 
 ## Beschrijving
 De pagina is simpele overzichtelijke website. Waarin de We love web sessies aangekondigd worden. Met een button naar detailpage voor wat meer informatie. Ook heeft de pagina een navigatie die je helpt te navigeren door de website heen. Het aanmeld formulier is ook makkelijk te vinden voor de geïnteresseerden. 
-All het data wordt ook wel uit de We love web API gehaald. 
+All het data wordt ook wel uit Prismic gehaald. 
 
 ## Kenmerken
 <!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met Javascript gedaan en hoe? Misschien heb je een framwork of library gebruikt? -->
