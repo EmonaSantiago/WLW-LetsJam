@@ -15,7 +15,7 @@
 
 <style>
   header {
-    background-color: blue;
+    color: #66e5bf;
   }
   img {
     width: 5em;
@@ -27,6 +27,17 @@
 
   li {
     display: inline-block;
-    padding: 1em;
+    border: solid #66e5bf 1px;
+    border-radius: 0.5rem;
+    margin: 0.2rem;
+    padding: 0.6rem 1.2rem;
+  }
+
+  @media only screen and (max-width: 375px) {
+    img {
+      width: 3em;
+      margin-top: 1em;
+      margin-left: 1em;
+    }
   }
 </style>
