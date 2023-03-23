@@ -2,7 +2,7 @@ import createClient from "$lib/prismicClient";
 
 export async function load({ fetch, request }) {
   const client = createClient({ fetch, request });
-  const document = await client.getAllByType("session");
+  const document = await client.getAllByType("we_love_web_blog");
 
   console.log(document);
 

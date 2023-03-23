@@ -1,6 +1,6 @@
 import * as prismic from "@prismicio/client";
 
-const repositoryName = "lets-jam";
+const repositoryName = "we-love-web-wa";
 
 const createClient = (params) => {
   const client = prismic.createClient(repositoryName, params);
