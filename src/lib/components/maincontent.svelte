@@ -22,7 +22,7 @@
   }
 
   .left-column {
-    background-color: blue;
+    background-color: rgb(6, 6, 131);
     float: left;
     width: 30%;
     padding: 2em;

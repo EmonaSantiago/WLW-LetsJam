@@ -53,7 +53,7 @@
 
 <style>
   h1 {
-    color: #404040;
+    color: white;
     font-size: 1.25rem;
     letter-spacing: 4px;
     text-transform: uppercase;
@@ -75,6 +75,7 @@
     display: flex;
     scroll-snap-type: x mandatory;
     gap: 24px;
+    color: white;
   }
 
   .container .item {
@@ -91,12 +92,12 @@
     padding: 24px;
     position: relative;
     top: 0;
-    width: 300px;
+    width: 250px;
   }
 
   @media screen and (max-width: 600px) {
-    .container {
-      width: 380px;
+    h1 {
+      font-size: 5vw;
     }
 
     .container .item {
@@ -106,7 +107,9 @@
       padding: 24px;
       position: relative;
       top: 0;
-      width: 10em;
+      width: 15em;
+      height: 40em;
+      font-size: smaller;
     }
   }
 </style>
