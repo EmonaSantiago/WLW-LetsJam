@@ -19,6 +19,7 @@
   .row {
     height: 100vh;
     margin: auto;
+    margin-top: 8em;
   }
 
   .left-column {

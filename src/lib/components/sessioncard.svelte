@@ -76,6 +76,7 @@
     scroll-snap-type: x mandatory;
     gap: 24px;
     color: white;
+    height: fit-content;
   }
 
   .container .item {
@@ -108,7 +109,6 @@
       position: relative;
       top: 0;
       width: 15em;
-      height: 40em;
       font-size: smaller;
     }
   }

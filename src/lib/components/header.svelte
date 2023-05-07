@@ -8,8 +8,8 @@
     alt="fdnd-logo"
   />
   <ul>
-    <li>Aanmelden</li>
-    <li>FDND.nl</li>
+    <li class="aanmelden">Aanmelden</li>
+    <li class="website">FDND.nl</li>
   </ul>
 </header>
 
@@ -25,9 +25,16 @@
     float: right;
   }
 
+  .aanmelden {
+    border: solid #66e5bf 1px;
+  }
+
+  .website {
+    background-color: #66e5bf;
+    color: #050542;
+  }
   li {
     display: inline-block;
-    border: solid #66e5bf 1px;
     border-radius: 0.5rem;
     margin: 0.2rem;
     padding: 0.6rem 1.2rem;
