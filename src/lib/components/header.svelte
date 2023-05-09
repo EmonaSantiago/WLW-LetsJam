@@ -1,46 +1,47 @@
 <script>
+  import logo from "/Users/emonasantiago/Documents/choices-choices-the-tech-stack/WLW-LetsJam/src/assets/Schermafbeelding 2023-03-15 om 18.46 3 (1).png";
 </script>
 
 <header>
-  <!-- <img
-    id="logo"
-    src="https://avatars.githubusercontent.com/u/62932179?s=280&v=4"
-    alt="fdnd-logo"
-  /> -->
-
   <p>
     <a href="/">
-      <img
-        src="https://avatars.githubusercontent.com/u/62932179?s=280&v=4"
-        alt="fdnd-logo"
-      />
+      <img src={logo} alt="My Image" width="100%" />
     </a>
   </p>
 
   <ul>
-    <li><a href="/aanmelden">Aanmelden</a></li>
-    <li><a href="https://fdnd.nl/">FDND.nl</a></li>
+    <li class="aanmelden-btn"><a href="/aanmelden">Aanmelden</a></li>
+    <li class="fdnd-btn"><a href="https://fdnd.nl/">FDND.nl</a></li>
   </ul>
 </header>
 
 <style>
+  a:link {
+    text-decoration: none;
+  }
+
+  a {
+    color: white;
+  }
   header {
     color: #66e5bf;
   }
   img {
-    width: 5em;
+    width: 8em;
     float: left;
+    margin-left: 1.5em;
   }
 
   ul {
     float: right;
+    text-decoration: none;
   }
 
-  .aanmelden {
+  .aanmelden-btn {
     border: solid #66e5bf 1px;
   }
 
-  .website {
+  .fdnd-btn {
     background-color: #66e5bf;
     color: #050542;
   }
@@ -53,9 +54,15 @@
 
   @media only screen and (max-width: 375px) {
     img {
-      width: 3em;
+      width: 5em;
       margin-top: 1em;
-      margin-left: 1em;
+      margin-left: 1.5em;
+    }
+
+    li {
+      display: inline-block;
+      border-radius: 0.5rem;
+      padding: 0.5em;
     }
   }
 </style>
