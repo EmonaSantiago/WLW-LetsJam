@@ -18,6 +18,7 @@
     padding: 1em;
     position: absolute;
     color: white;
+    background-color: #050542;
   }
 
   img {

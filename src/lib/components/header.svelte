@@ -16,16 +16,11 @@
 </header>
 
 <style>
-  a:link {
+  a {
+    color: white;
     text-decoration: none;
   }
 
-  a {
-    color: white;
-  }
-  header {
-    color: #66e5bf;
-  }
   img {
     width: 8em;
     float: left;
@@ -34,15 +29,14 @@
 
   ul {
     float: right;
-    text-decoration: none;
   }
 
   .aanmelden-btn {
-    border: solid #66e5bf 1px;
+    border: solid #a675f5 1px;
   }
 
   .fdnd-btn {
-    background-color: #66e5bf;
+    border: solid #66e5bf 1px;
     color: #050542;
   }
   li {
