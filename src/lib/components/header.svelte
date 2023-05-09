@@ -2,14 +2,24 @@
 </script>
 
 <header>
-  <img
+  <!-- <img
     id="logo"
     src="https://avatars.githubusercontent.com/u/62932179?s=280&v=4"
     alt="fdnd-logo"
-  />
+  /> -->
+
+  <p>
+    <a href="/">
+      <img
+        src="https://avatars.githubusercontent.com/u/62932179?s=280&v=4"
+        alt="fdnd-logo"
+      />
+    </a>
+  </p>
+
   <ul>
-    <li class="aanmelden">Aanmelden</li>
-    <li class="website">FDND.nl</li>
+    <li><a href="/aanmelden">Aanmelden</a></li>
+    <li><a href="https://fdnd.nl/">FDND.nl</a></li>
   </ul>
 </header>
 
@@ -19,6 +29,7 @@
   }
   img {
     width: 5em;
+    float: left;
   }
 
   ul {
