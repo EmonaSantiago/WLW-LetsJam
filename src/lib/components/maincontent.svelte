@@ -1,6 +1,6 @@
 <script>
-  import Introduction from "./introduction.svelte";
-  import Sessions from "./sessions.svelte";
+  import Introduction from "./Introduction.svelte";
+  import Sessions from "./Sessions.svelte";
 </script>
 
 <div class="row">

@@ -1,5 +1,5 @@
 <script>
-  import Sessioncard from "./sessioncard.svelte";
+  import Sessioncard from "./Sessioncard.svelte";
 </script>
 
 <Sessioncard />
