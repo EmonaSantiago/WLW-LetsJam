@@ -1,6 +1,5 @@
 <script>
   import Header from "$lib/components/Header.svelte";
-  import Hero from "$lib/components/Hero.svelte";
   import Maincontent from "$lib/components/Maincontent.svelte";
   import Content from "$lib/components/Content.svelte";
   import myImage from "/Users/emonasantiago/Documents/choices-choices-the-tech-stack/WLW-LetsJam/src/assets/Schermafbeelding 2023-03-08 om 12.53 3.png";
